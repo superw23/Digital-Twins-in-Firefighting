@@ -1,0 +1,33 @@
+# Unity Project Git Ignore
+
+# Unity specific
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+Assets/Domik/
+Assets/Low Poly Humans Pack/
+Assets/polyperfect/
+Assets/ModularFirstPersonController/
+
+# Visual Studio / Rider specific
+.vs/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.vscode/
+
+# MacOS specific
+.DS_Store

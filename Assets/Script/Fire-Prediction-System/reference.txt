@@ -1,0 +1,7 @@
+
+"""
+Part of the AI implementation in this project was adapted from an open-source Fire Prediction System 
+available on GitHub, created by developer vaniseth. This code was used to establish a preliminary 
+model for fire prediction, and then it was refined to suit our Digital Twin system. 
+The original repository can be accessed at: https://github.com/vaniseth/Forest-Fire-Prediction-System
+"""
