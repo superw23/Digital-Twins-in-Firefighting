@@ -1,5 +1,6 @@
 ## 📄 Project Documentation
-[📑 Click here to view the PDF]([https://github.com/your-username/your-repo/blob/main/docs/project-description.pdf](https://github.com/superw23/Digital-Twins-in-Firefighting/blob/main/Project-description.pdf))
+[📑 Click here to view the PDF](https://github.com/superw23/Digital-Twins-in-Firefighting/blob/main/Project-description.pdf)
+
 # Digital-Twins-in-Firefighting
 Developed a Digital Twin system in C# and Unity3D
 •	Developed a Digital Twin system in C# and Unity3D, integrating different machine learning models to predict fire spread and optimize escape routes in real-time, enabling accurate fire spread prediction within a second.
